@@ -7,7 +7,7 @@ I am a Leader, a Software Developer, U.S. Army Veteran, and Certified Scrum Mast
 ### 💻 Core Tech Stack & Tools
 * **Languages & Frameworks:** Python, TypeScript, JavaScript, FastAPI, React, Vite
 * **AI & Cloud Services:** Gemini API, Firebase, Google Cloud Hosting
-* **Methodologies & Management:** Scrum Master, Agile, Jira, Sprint Planning, User Acceptance Testing
+* **Methodologies & Management:** Scrum Master, Agile, Jira, Trello, Figma, Sprint Planning, User Acceptance Testing
 
 ---
 
