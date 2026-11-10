@@ -1,6 +1,6 @@
 ### Hi there, I'm Scott Shoemaker 👋
 
-I am a Software Developer, U.S. Army Veteran, and Certified Scrum Master. I have a B.S. in Computer Science with a concentration in Artificial Intelligence at Full Sail University. I specialize in building intelligent, data-driven applications using modern web technologies, Python, FastAPI, and the Gemini API, while leading development workflows through Agile methodologies.
+I am a Leader, a Software Developer, U.S. Army Veteran, and Certified Scrum Master. I have a B.S. in Computer Science with a concentration in Artificial Intelligence at Full Sail University. I specialize in building intelligent, data-driven applications using modern web technologies, Python, FastAPI, and the Gemini API, while leading development workflows through Agile methodologies.
 
 ---
 
