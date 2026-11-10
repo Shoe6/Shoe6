@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Scott Shoemaker 👋
 
-<!--
-**Shoe6/Shoe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer, U.S. Army Veteran, and Certified Scrum Master. I have a B.S. in Computer Science with a concentration in Artificial Intelligence at Full Sail University. I specialize in building intelligent, data-driven applications using modern web technologies, Python, FastAPI, and the Gemini API, while leading development workflows through Agile methodologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Tech Stack & Tools
+* **Languages & Frameworks:** Python, TypeScript, JavaScript, FastAPI, React, Vite
+* **AI & Cloud Services:** Gemini API, Firebase, Google Cloud Hosting
+* **Methodologies & Management:** Scrum Master, Agile, Jira, Sprint Planning, User Acceptance Testing
+
+---
+
+### 🚀 Featured Projects
+
+* **[MedReach-AI](https://github.com/Shoe6/MedReach-AI)** ([Live App](https://medreachai-679aa.web.app))
+  * *Description:* Android CS capstone application featuring a FastAPI & Gemini API NLP search backend, Firebase integration, and structured Agile/Jira sprint management.
+* **[Orrery](https://github.com/Shoe6/Orrery)**
+  * *Description:* A web-based astrological chart and planetary calculation application featuring a sci-fi telemetry UI and dynamic API orchestration.
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** www.linkedin.com/in/scottshoemaker6
